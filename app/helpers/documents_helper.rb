@@ -20,7 +20,7 @@ module DocumentsHelper
     if doc.schools.empty?
       ""
     else
-      doc.schools.first.english_school
+      doc.schools.first.english_school ? doc.schools.first.english_school : ""
     end
   end
 
@@ -28,7 +28,7 @@ module DocumentsHelper
     if doc.schools.empty?
       ""
     else
-      doc.schools.first.chinese_school
+      doc.schools.first.chinese_school ? doc.schools.first.chinese_school : ""
     end
   end
 
