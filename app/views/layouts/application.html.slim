@@ -8,5 +8,11 @@ html
   body
 
     div.container
-      == yield
+      div.col-md-1
+      div.col-md-9
+        == yield
+      div.col-md-2
+        div.container#details-board
+          h5 Document Details
+          div#doc-details
 

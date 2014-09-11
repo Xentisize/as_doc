@@ -36,6 +36,7 @@ gem 'slim-rails'
 gem 'dragonfly'
 gem 'simple_form'
 gem 'bootstrap-sass'
+gem 'nested_form'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

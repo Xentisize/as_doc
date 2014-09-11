@@ -9,11 +9,15 @@ module DocumentsHelper
   end
 
   def listing_categories(doc)
+    return_string = ""
     if doc.categories.empty?
-      ""
+      return_string = ""
     else
-      doc.categories.first.category
+      doc.categories.each do |c|
+        return_string << c.category << "<br/>"
+      end
     end
+    return_string
   end
 
   def listing_eng_school(doc)

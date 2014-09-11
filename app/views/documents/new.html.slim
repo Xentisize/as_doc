@@ -1,6 +1,6 @@
 h2 New Document
 
-= simple_form_for @document, class: "horizontal", role: "form" do |f|
+= simple_nested_form_for @document, class: "horizontal", role: "form" do |f|
   div.form-group
     = f.input :document_year
   div.form-group
@@ -18,7 +18,14 @@ h2 New Document
       = sch.input :english_school
       = sch.input :chinese_school
   div.form-group
+    = f.simple_fields_for :categories, legend: "Category" do |c|
+      = c.input :category
+      = c.link_to_remove "remove"
+    = f.link_to_add "add", :categories
+
+
+  div.form-group
     = f.submit "submit"
-
-
+  div.form-group
+    = link_to "Back", documents_path
 

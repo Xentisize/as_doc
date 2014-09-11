@@ -9,11 +9,12 @@ class DocumentsController < ApplicationController
     @school = @document.schools.new
     @subject = @document.subjects.new
     @contributor = @document.contributors.new
-    # @categories = Category.new
+    @categories = @document.categories.build
   end
 
   def create
     @document = Document.new(document_params)
+    logger.info document_categories_params
 
     ### Check and input the presence of association
     unless document_subject_params[:subject].blank?
@@ -34,6 +35,16 @@ class DocumentsController < ApplicationController
       end
       @document.schools << school
     end
+
+    document_categories_params[:categories_attributes].keys.each do |k|
+      if document_categories_params[:categories_attributes][k].blank?
+        category = nil
+      else
+        category = Category.find_or_create_by(category: document_categories_params[:categories_attributes][k][:category])
+      end
+      @document.categories << category
+    end
+
 
     if @document.save
       redirect_to documents_path
@@ -62,6 +73,10 @@ class DocumentsController < ApplicationController
 
   def document_school_params
     params.require(:document).permit(school: [:english_school, :chinese_school])
+  end
+
+  def document_categories_params
+    params.require(:document).permit(categories_attributes: [[:category]])
   end
 
 end
