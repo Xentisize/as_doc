@@ -50,13 +50,32 @@ class DocumentsController < ApplicationController
     end
 
     unless document_school_params[:school][:english_school].blank? && document_school_params[:school][:chinese_school].blank?
-      if document_school_params[:school][:english_school].blank?
-        school = School.find_or_create_by(chinese_school: document_school_params[:school][:chinese_school])
+      chinese_school = School.find_by(chinese_school: document_school_params[:school][:chinese_school])
+      if chinese_school.blank?
+        english_school = School.find_by(english_school: document_school_params[:school][:english_school])
+        if english_school.blank?
+          english_school = School.create(document_school_params[:school])
+          @document.schools << english_school
+        end
       else
-        school = School.find_or_create_by(english_school: document_school_params[:school][:english_school])
+        if chinese_school.english_school == document_school_params[:school][:english_school]
+          @document.schools << chinese_school
+        else
+          redirect_to new_document_path
+        end
       end
-      @document.schools << school
     end
+
+    #   school = School.find_or_create_by(chinese_school: document_school_params[:school][:chinese_school)
+
+
+    #   if document_school_params[:school][:english_school].blank?
+    #     school = School.find_or_create_by(chinese_school: document_school_params[:school][:chinese_school])
+    #   else
+    #     school = School.find_or_create_by(english_school: document_school_params[:school][:english_school])
+    #   end
+    #   @document.schools << school
+    # end
 
     document_categories_params[:categories_attributes].keys.each do |k|
       if document_categories_params[:categories_attributes][k].blank?
@@ -75,6 +94,17 @@ class DocumentsController < ApplicationController
     end
   end
 
+  def match_school
+    if params[:school] =~ /[A-Za-z]+/
+      @school = School.find_by(english_school: params[:school])
+    else
+      @school = School.find_by(chinese_school: params[:school])
+    end
+    respond_to do |format|
+      format.json { render :json => @school }
+    end
+  end
+
   private
 
   def set_documents
@@ -82,7 +112,7 @@ class DocumentsController < ApplicationController
   end
 
   def document_params
-    params.require(:document).permit(:document_year, :term, :grade)
+    params.require(:document).permit(:document_year, :term, :grade, :file)
   end
 
   def document_subject_params

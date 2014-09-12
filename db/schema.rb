@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140912031857) do
+ActiveRecord::Schema.define(version: 20140912064141) do
 
   create_table "categories", force: true do |t|
     t.string   "category"
@@ -44,6 +44,8 @@ ActiveRecord::Schema.define(version: 20140912031857) do
     t.string   "document_location"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "file_uid"
+    t.string   "file_name"
   end
 
   create_table "documents_formats", id: false, force: true do |t|

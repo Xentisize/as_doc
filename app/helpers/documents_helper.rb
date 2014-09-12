@@ -36,6 +36,14 @@ module DocumentsHelper
     end
   end
 
+  def listing_format(doc)
+    if doc.formats.empty?
+      ""
+    else
+      doc.formats.first.format
+    end
+  end
+
   def listing_grade(doc)
     if doc.grade
       case doc.grade

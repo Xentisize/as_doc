@@ -2,6 +2,8 @@ h2 New Document
 
 = simple_nested_form_for @document, class: "horizontal", role: "form" do |f|
   div.form-group
+    = f.file_field :file
+  div.form-group
     = f.simple_fields_for @format do |ff|
       = ff.input :format, input_html: { list: 'formats-list' }
       = render "view_caches/format_cache"

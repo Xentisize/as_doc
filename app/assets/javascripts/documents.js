@@ -25,19 +25,6 @@
 //   });
 // });
 
-$(function() {
-  // if($("div#doc-details").html() == "") {
-  //   $("div#details-board").hide();
-  // }
-  // $("table > tbody > tr").each(function() {
-  //   $(this).hover(function() {
-  //     $(this).children().last().children()[4]
-  //     $("div#doc-details").html("Hi there!").parent().show();
-  //   }, function() {
-  //     $("div#doc-details").parent().hide();
-  //   })
-  // });
-});
 
 $(function() {
   $("table tbody tr").each(function() {                 // Selecting rows of index
@@ -50,10 +37,28 @@ $(function() {
   });
 });
 
+// To fill in the english / chinese school name when losed focus
+$(function() {
+  $("#document_school_english_school").blur(function() {
+    if($(this).val() !== "" && $("#document_school_chinese_school").val() === "") {
+      var request_url = "/schools/" + $(this).val() + ".json";
+      $.getJSON(request_url, function(data) {
+        console.log(data);
+        $("#document_school_chinese_school").val(data["chinese_school"]);
+      });
+    }
+  });
+});
 
-
-
-
-
-
-// $("table > tbody > tr").first().hover(function() { $("div#doc-details").html("Hi").parent().show() }, function() { $("div#doc-details").html("").parent().hide() })
+$(function() {
+  $("#document_school_chinese_school").blur(function() {
+    if($(this).val() !== "" && $("#document_school_english_school").val() === "") {
+      var request_url = "/schools/" + $(this).val() + ".json";
+      console.log(request_url);
+      $.getJSON(request_url, function(data) {
+        console.log(data);
+        $("#document_school_english_school").val(data["english_school"]);
+      });
+    }
+  });
+});

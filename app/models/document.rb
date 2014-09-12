@@ -6,4 +6,6 @@ class Document < ActiveRecord::Base
   # has_and_belongs_to_many :types
   has_and_belongs_to_many :contributors
   accepts_nested_attributes_for :categories
+
+  dragonfly_accessor :file
 end
