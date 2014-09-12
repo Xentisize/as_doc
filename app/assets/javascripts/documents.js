@@ -25,14 +25,28 @@
 //   });
 // });
 
+// $(function() {
+//   $("table tbody tr").each(function() {
+//     $(this).click(function() {
+//       $.getJSON()
+//     })
+//   })
+// })
 
 $(function() {
   $("table tbody tr").each(function() {                 // Selecting rows of index
     var tools_cell = $(this).children().last();         // Selecting the last cell (tool cell) of each column
     var fetch_button = $(tools_cell).children("form").children().children();      // Selecting the button which send ajax request to doc-details
     $(fetch_button).hide();   // Hide the button which is too ugly
-    $(this).hover(function() {
-      $(fetch_button).trigger("click");     // When the row is hovered, the doc details are updated async
+    $(this).click(function(event) {
+      console.log(this);
+      event.preventDefault();
+      $(fetch_button).click(function(event) {
+        $(this).click();
+        event.stopPropagation();
+      });
+      // event.preventDefault();
+      // console.log(event);
     });
   });
 });
@@ -43,7 +57,7 @@ $(function() {
     if($(this).val() !== "" && $("#document_school_chinese_school").val() === "") {
       var request_url = "/schools/" + $(this).val() + ".json";
       $.getJSON(request_url, function(data) {
-        console.log(data);
+        // console.log(data);
         $("#document_school_chinese_school").val(data["chinese_school"]);
       });
     }
@@ -54,9 +68,9 @@ $(function() {
   $("#document_school_chinese_school").blur(function() {
     if($(this).val() !== "" && $("#document_school_english_school").val() === "") {
       var request_url = "/schools/" + $(this).val() + ".json";
-      console.log(request_url);
+      // console.log(request_url);
       $.getJSON(request_url, function(data) {
-        console.log(data);
+        // console.log(data);
         $("#document_school_english_school").val(data["english_school"]);
       });
     }

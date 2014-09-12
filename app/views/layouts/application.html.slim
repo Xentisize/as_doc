@@ -7,7 +7,8 @@ html
     = javascript_include_tag 'application', 'data-turbolinks-track' => true
     = csrf_meta_tags
   body
-    div.row
+
+    div
       nav class="navbar navbar-default" role="navigation"
         div.container-fluid
           div class="navbar-header"
@@ -24,15 +25,11 @@ html
                 span class="glyphicon glyphicon-upload"
                 |    Upload
 
-
-    / div.container
-    / div.col-md-1
-    div.col-md-8
+    div.container#body
       == yield
-    div.col-md-3.col-md-offset-1
+      / div.doc-details
 
-      br
+    div#footer
       div#doc-details
-        / h5 Document Details
-        / div#doc-details
+      / p This is me
 
