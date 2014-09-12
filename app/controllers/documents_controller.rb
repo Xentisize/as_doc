@@ -17,6 +17,7 @@ class DocumentsController < ApplicationController
     @subjects = Subject.all
     @schools = School.all
     @formats = Format.all
+    @categories = Category.all
   end
 
   def show

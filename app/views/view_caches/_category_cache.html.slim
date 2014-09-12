@@ -1,0 +1,4 @@
+datalist id="categories-list"
+  - cache @categories.last do
+    - @categories.each do |c|
+        option value="#{c.category}"
