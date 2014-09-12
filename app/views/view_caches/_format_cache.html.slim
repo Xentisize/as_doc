@@ -1,0 +1,4 @@
+datalist id="formats-list"
+  - cache @formats.last do
+    - @formats.each do |t|
+        option value="#{t.format}"

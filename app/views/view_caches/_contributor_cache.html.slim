@@ -1,0 +1,4 @@
+datalist id="contributors-list"
+  - cache @contributors.last do
+    - @contributors.each do |c|
+        option value="#{c.contributor_name}"

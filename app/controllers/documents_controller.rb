@@ -9,12 +9,28 @@ class DocumentsController < ApplicationController
     @school = @document.schools.new
     @subject = @document.subjects.new
     @contributor = @document.contributors.new
+    @format = @document.formats.new
     @categories = @document.categories.build
+
+    # Variables for datalist during input form
+    @contributors = Contributor.all
+    @subjects = Subject.all
+    @schools = School.all
+    @formats = Format.all
+  end
+
+  def show
+    @document = Document.find(params[:id])
+    logger.info @document
+    respond_to do |format|
+      format.html {  }
+      # format.json { render :json => @document}
+      format.js
+    end
   end
 
   def create
     @document = Document.new(document_params)
-    logger.info document_categories_params
 
     ### Check and input the presence of association
     unless document_subject_params[:subject].blank?
@@ -25,6 +41,11 @@ class DocumentsController < ApplicationController
     unless document_contributor_params[:contributor].blank?
       contributor = Contributor.find_or_create_by(document_contributor_params[:contributor])
       @document.contributors << contributor
+    end
+
+    unless document_format_params[:format].blank?
+      format = Format.find_or_create_by(document_format_params[:format])
+      @document.formats << format
     end
 
     unless document_school_params[:school][:english_school].blank? && document_school_params[:school][:chinese_school].blank?
@@ -73,6 +94,10 @@ class DocumentsController < ApplicationController
 
   def document_school_params
     params.require(:document).permit(school: [:english_school, :chinese_school])
+  end
+
+  def document_format_params
+    params.require(:document).permit(format: [:format])
   end
 
   def document_categories_params

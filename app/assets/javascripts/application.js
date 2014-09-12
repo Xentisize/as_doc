@@ -17,8 +17,8 @@
 //= require turbolinks
 //= require_tree .
 
-$(document).ready(function() {
-  if($("div#doc-details").html() == "") {
-  $("div#details-board").hide();
-  }
-});
+// $(document).ready(function() {
+//   if($("div#doc-details").html() == "") {
+//   $("div#details-board").hide();
+//   }
+// });

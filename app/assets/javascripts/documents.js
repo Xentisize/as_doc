@@ -26,16 +26,29 @@
 // });
 
 $(function() {
-  $("table > tbody > tr").each(function() {
-    $(this).hover(function() {
-      $("div#doc-details").html("Hi there!").parent().show();
-    }, function() {
-      $("div#doc-details").parent().hide();
-    })
-  });
+  // if($("div#doc-details").html() == "") {
+  //   $("div#details-board").hide();
+  // }
+  // $("table > tbody > tr").each(function() {
+  //   $(this).hover(function() {
+  //     $(this).children().last().children()[4]
+  //     $("div#doc-details").html("Hi there!").parent().show();
+  //   }, function() {
+  //     $("div#doc-details").parent().hide();
+  //   })
+  // });
 });
 
-
+$(function() {
+  $("table tbody tr").each(function() {                 // Selecting rows of index
+    var tools_cell = $(this).children().last();         // Selecting the last cell (tool cell) of each column
+    var fetch_button = $(tools_cell).children("form").children().children();      // Selecting the button which send ajax request to doc-details
+    $(fetch_button).hide();   // Hide the button which is too ugly
+    $(this).hover(function() {
+      $(fetch_button).trigger("click");     // When the row is hovered, the doc details are updated async
+    });
+  });
+});
 
 
 

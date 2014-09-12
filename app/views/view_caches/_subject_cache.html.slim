@@ -1,0 +1,4 @@
+datalist id="subjects-list"
+  - cache @subjects.last
+    - @subjects.each do |s|
+        option value="#{s.subject}"

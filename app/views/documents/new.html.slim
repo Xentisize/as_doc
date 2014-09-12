@@ -2,6 +2,10 @@ h2 New Document
 
 = simple_nested_form_for @document, class: "horizontal", role: "form" do |f|
   div.form-group
+    = f.simple_fields_for @format do |ff|
+      = ff.input :format, input_html: { list: 'formats-list' }
+      = render "view_caches/format_cache"
+  div.form-group
     = f.input :document_year
   div.form-group
     = f.input :term
@@ -9,14 +13,18 @@ h2 New Document
     = f.input :grade
   div.form-group
     = f.simple_fields_for @subject do |subj|
-      = subj.input :subject
+      = subj.input :subject, input_html: { list: "subjects-list" }
+      = render "view_caches/subject_cache"
   div.form-group
     = f.simple_fields_for @contributor do |con|
-      = con.input :contributor_name
+      = con.input :contributor_name, input_html: { list: "contributors-list"}
+      = render "view_caches/contributor_cache"
   div.form-group
     = f.simple_fields_for @school do |sch|
-      = sch.input :english_school
-      = sch.input :chinese_school
+      = sch.input :english_school, input_html: { list: "english-schools-list" }
+      = render "view_caches/english_school_cache"
+      = sch.input :chinese_school, input_html: { list: "chinese-schools-list" }
+      = render "view_caches/chinese_school_cache"
   div.form-group
     = f.simple_fields_for :categories, legend: "Category" do |c|
       = c.input :category

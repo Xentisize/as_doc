@@ -1,0 +1,15 @@
+div.row
+  div class="panel panel-primary"
+    div.panel-heading Document Details
+    div.panel-body
+      ul.list-group
+        li.list-group-item style="display:none" = @document.id
+        li.list-group-item = @document.document_name
+        li.list-group-item = listing_subject(@document)
+        li.list-group-item == listing_categories(@document)
+        li.list-group-item = listing_eng_school(@document)
+        li.list-group-item = listing_chi_school(@document)
+        li.list-group-item = @document.document_year
+        li.list-group-item = listing_grade(@document)
+        li.list-group-item = @document.term
+        li.list-group-item == "Contributor: <strong>#{listing_contributor(@document)}</strong>"

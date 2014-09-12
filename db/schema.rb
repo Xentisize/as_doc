@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140910083215) do
+ActiveRecord::Schema.define(version: 20140912031857) do
 
   create_table "categories", force: true do |t|
     t.string   "category"
@@ -46,6 +46,11 @@ ActiveRecord::Schema.define(version: 20140910083215) do
     t.datetime "updated_at"
   end
 
+  create_table "documents_formats", id: false, force: true do |t|
+    t.integer "document_id"
+    t.integer "format_id"
+  end
+
   create_table "documents_schools", id: false, force: true do |t|
     t.integer "school_id"
     t.integer "document_id"
@@ -56,9 +61,10 @@ ActiveRecord::Schema.define(version: 20140910083215) do
     t.integer "subject_id"
   end
 
-  create_table "documents_types", id: false, force: true do |t|
-    t.integer "document_id"
-    t.integer "type_id"
+  create_table "formats", force: true do |t|
+    t.string   "format"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "schools", force: true do |t|
@@ -70,12 +76,6 @@ ActiveRecord::Schema.define(version: 20140910083215) do
 
   create_table "subjects", force: true do |t|
     t.string   "subject"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
-
-  create_table "types", force: true do |t|
-    t.string   "type"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
