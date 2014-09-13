@@ -10,6 +10,7 @@ div.row
 table class="table table-striped table-hover table-condensed text-center"
   thead
     tr
+      td ID
       td Format
       td Subject
       td Categories
@@ -23,6 +24,7 @@ table class="table table-striped table-hover table-condensed text-center"
   tbody
     - @documents.each do |doc|
       tr
+        td = doc.id
         td = listing_format(doc)
         td = listing_subject(doc)
         td == listing_categories(doc)
@@ -34,12 +36,10 @@ table class="table table-striped table-hover table-condensed text-center"
         td = listing_contributor(doc)
         td.tool-cells
           / a href="#{doc.file.url}" target="_blank"
-            span class="glyphicon glyphicon-folder-open"
+          / link to attachment should be added
+          span class="glyphicon glyphicon-folder-open"
           span class="glyphicon glyphicon-pencil"
           span class="glyphicon glyphicon-remove"
-          / br
-          = button_to "Fetch", document_path(doc), method: :get, remote: true
 
-          / br
 
 

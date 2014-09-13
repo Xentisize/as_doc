@@ -7,49 +7,28 @@ class Document < ActiveRecord::Base
   has_and_belongs_to_many :contributors
   accepts_nested_attributes_for :categories
 
+
   dragonfly_accessor :file
 
-  # # before_save :generate_document_name
-
-  # # def generate_document_name
-  # #   # Format-Primary-Subject-School-Form-Year-Term-[id].pdf
-  # #   doc_name = ""
-  # #   doc_name << "#{formats.first.format}-" unless formats.first.blank?
-  # #   doc_name << generate_grade_format << "-"
-  # #   doc_name << "#{subjects.first.subject}-" unless subjects.first.blank?
-  # #   doc_name << "#{grade}-" unless grade.blank?
-  # #   doc_name << "#{document_year}-" unless document_year.blank?
-  # #   doc_name << "#{term}" unless term.blank?
-  # #   # doc_name
-  # #   # "#{formats.first.format unless formats.first.blank?}-#{generate_grade_format}-#{subjects.first.subject unless subjects.first.blank?}"
-  # #   update(document_name: doc_name)
-  # # end
-
-  # def abbreviate_school_name
-  #   abbreviated_school = ""
-  #   schools.first[:english_school].split("").each do |word|
-  #     abbreviated_school << word[0]
-  #   end
-  #   abbreviated_school
+  #   if File.exist? f.path
+  #     move_the
+  #   :move_the_file(f)
   # end
+  # after_save :move_the_file
 
-  # def generate_grade_format
-  #   if grade.blank?
-  #     ""
-  #   else
-  #     case grade
-  #     when 1..6
-  #       "Primary"
-  #     when 7..12
-  #       "Secondary"
-  #     when 13..17
-  #       "Teritary"
-  #     else
-  #       "U"
-  #     end
-  #   end
-  # end
+  def move_the_file(f)
+    # if File.exist? f.path
+      move_the_file_to_tmp(f)
+    # end
+  end
 
+  # def file_path
+    # Rails.join("public", "system", "")
+
+  def move_the_file_to_tmp(f)
+    logger.info(f.path)
+    FileUtils.cp(f.path, Rails.root.join("tmp", "processing"))
+  end
 
 
 end

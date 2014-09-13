@@ -24,8 +24,8 @@ class DocumentsController < ApplicationController
     @document = Document.find(params[:id])
     logger.info @document
     respond_to do |format|
-      format.html {  }
-      # format.json { render :json => @document}
+      # format.html {  }`
+      format.json { render :json => @document.to_json(:include => [:schools, :formats, :categories, :subjects, :contributors]) }
       format.js
     end
   end
