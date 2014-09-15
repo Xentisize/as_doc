@@ -29,6 +29,7 @@ class Document < ActiveRecord::Base
       @marked_png_path = Rails.root.join("public", "uploads", "tmp", "marked_png")
       @pdf_path = Rails.root.join("public", "store", "document")
       @document_location = Pathname.new("/store/document/#{file.file.filename}")
+      @thumbnail_location = Rails.root.join("public", "storage", "document", "thumbnail")
     end
 
     check_or_create_dirs
@@ -50,6 +51,7 @@ class Document < ActiveRecord::Base
     FileUtils.mkdir_p(@qr_path) unless Dir.exist?(@qr_path)
     FileUtils.mkdir_p(@marked_png_path) unless Dir.exist?(@marked_png_path)
     FileUtils.mkdir_p(@pdf_path) unless Dir.exist?(@pdf_path)
+    FileUtils.mkdir_p(@thumbnail_location) unless Dir.exist?(@thumbnail_location)
   end
 
   def check_or_empty_dirs
@@ -69,6 +71,8 @@ class Document < ActiveRecord::Base
   def tmp_to_png
     `convert -density 200 -size 1024x800 #{@tmp_file_path} #{@png_path}/#{@tmp_file_identifier}-%03d.png`
   end
+
+  def
 
   def generate_qr_data
     doc_id = id
