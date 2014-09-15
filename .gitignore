@@ -17,3 +17,4 @@
 
 # Ignore upload file
 /public/system
+/public/uploads
