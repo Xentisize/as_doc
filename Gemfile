@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'carrierwave'
 gem 'rails', '4.1.5'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
@@ -33,12 +34,17 @@ group :development do
 end
 
 gem 'slim-rails'
-gem 'dragonfly'
+# gem 'dragonfly'
+# gem 'carrierwave'
 gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'nested_form'
 gem 'bh', '~> 1.0'
-gem 'active_model_serializers'
+# gem 'active_model_serializers'
+gem 'delayed_job_active_record'
+gem 'oily_png'
+gem 'rqrcode_png'
+gem 'rmagick'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
