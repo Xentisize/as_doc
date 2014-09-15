@@ -28,13 +28,18 @@ class Document < ActiveRecord::Base
       @qr_path = Rails.root.join("public", "uploads", "tmp", "qr")
       @marked_png_path = Rails.root.join("public", "uploads", "tmp", "marked_png")
       @pdf_path = Rails.root.join("public", "store", "document")
+      @document_location = Pathname.new("/store/document/#{file.file.filename}")
     end
 
     check_or_create_dirs
     check_or_empty_dirs
     copy_file_for_process
     tmp_to_png
-
+    generate_qr_code("#{id}", {height: 150, width: 150})
+    generate_label(generate_label_texts)
+    stamp_png_files
+    to_pdf
+    update_column(:document_location, @document_location.to_path)
   end
 
   def check_or_create_dirs
@@ -48,60 +53,79 @@ class Document < ActiveRecord::Base
   end
 
   def check_or_empty_dirs
-    dirs = [@tmp_file_basedir, @png_path, @label_path, @qr_path, @marked_png_path, @pdf_path]
+    dirs = [@tmp_file_basedir, @png_path, @label_path, @qr_path, @marked_png_path]
     dirs.each do |dir|
       entries = Dir.entries(dir).sort[2..-1]      ## Filtering out "." and ".."
       # entries.each do |entry|
 
-      FileUtils.rm_r Dir.glob('#{dir}.*') if entries.size > 0
+      FileUtils.rm_r Dir.glob("#{dir}/*.*") if entries.size > 0
     end
   end
 
   def copy_file_for_process
-      FileUtils.cp(@original_file.file.path, @tmp_file_path)
+      FileUtils.cp(@original_file.file.path, @tmp_file_path.to_path)
   end
 
   def tmp_to_png
-    pdf = Magick::ImageList.new(@tmp_file_path) { self.density = 200 }
-    pdf.write(@png_path)
+    `convert -density 200 -size 1024x800 #{@tmp_file_path} #{@png_path}/#{@tmp_file_identifier}-%03d.png`
+  end
+
+  def generate_qr_data
+    doc_id = id
+    "#{doc_id}"
   end
 
   def generate_qr_code(string, size)
     qr = RQRCode::QRCode.new(string, :size => 4, :level => :h)
     png = qr.to_img
-    png.resize(size[:height], size[:width])
+    png.resize(size[:height], size[:width]).save("#{@qr_path}/#{@tmp_file_identifier}-qr.png")
   end
 
-  def generate_label(contents, output_name)
+  def generate_label_texts
+    @doc_id = id
+    if categories.size > 1
+      @categories_string = categories.map { |c| c.category }
+      @label_string = "ID: #{@doc_id}\nCategories: " + @categories_string.join(", ")
+    else
+      @label_string = "ID: #{@doc_id}\nCategories: Unspecifed"
+    end
+  end
+
+  def generate_label(contents)
     canvas = Magick::Image.new(800, 300) do
       self.background_color = "none"
     end
-    gc.Magick::Draw.new
-    gc.pointsize(14)
+    gc = Magick::Draw.new
+    gc.pointsize(18)
     gc.text(30, 70, contents)
     gc.draw(canvas)
+    output_name = "#{@label_path}/#{@tmp_file_identifier}-label.png"
     canvas.write(output_name)
   end
 
-  def stamp_png_files(png, x, y)
-    pdf_template = ChunkyPNG::Image.from_file(png)
-    pdf_label = ChunkyPNG::Image.from_file(label_path + "/label.png")
-    qr_code = qr_path + "/qr.png"
-    pdf_template.compose!(qr_code, x, y)
-    pdf_template.compose!(pdf_label, x + 160, y)
-    pdf_template.save(png.gsub(".png", "-e.png"), :fast_rgba)
+  def stamp_png_files
+    qr_x_coord = 30
+    qr_y_coord = 30
+    label_x_coord = qr_x_coord + 150
+    label_y_coord = qr_y_coord
+
+    png_files = Dir.glob("#{@png_path}/*.*")
+    qr_file = ChunkyPNG::Image.from_file(@qr_path.join("#{@tmp_file_identifier}-qr.png"))
+
+    label_file = @label_path.join("#{@tmp_file_identifier}-label.png")
+    pdf_label = ChunkyPNG::Image.from_file(label_file)
+
+    png_files.each do |png|
+      pdf_template = ChunkyPNG::Image.from_file(png)
+      pdf_template.compose!(qr_file, qr_x_coord, qr_y_coord)
+      pdf_template.compose!(pdf_label, label_x_coord, label_y_coord)
+      pdf_template.save("#{@marked_png_path}/#{png.split("/").last}", :fast_rgba)
+    end
   end
 
-  def to_pdf(png_pages)
-    image_lists = Magick::ImageList.new(*png_pages)
-    image_lists.write("#{pdf_path}/#{original_file.file.filename}")
+  def to_pdf
+    marked_png_files = Dir.glob("#{@marked_png_path}/*.*")
+    image_lists = Magick::ImageList.new(*marked_png_files)
+    image_lists.write("#{@pdf_path}/#{@original_file.file.filename}")
   end
-
-
-
-
-
-
-
-
 end
