@@ -87,7 +87,7 @@ class Document < ActiveRecord::Base
 
   def generate_label_texts
     @doc_id = id
-    if categories.size > 1
+    if categories.size > 0
       @categories_string = categories.map { |c| c.category }
       @label_string = "ID: #{@doc_id}\nCategories: " + @categories_string.join(", ")
     else

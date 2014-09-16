@@ -11,6 +11,7 @@ table class="table table-striped table-hover table-condensed text-center"
   thead
     tr
       td ID
+      td
       td Format
       td Subject
       td Categories
@@ -25,6 +26,9 @@ table class="table table-striped table-hover table-condensed text-center"
     - @documents.each do |doc|
       tr
         td = doc.id
+        td = modal button: { size: :xs, caption: "Open" }, size: "large" do
+            div class="modal-body model-lg"
+              iframe src="#{doc.document_location}#view=fitH" width="800" height="550"
         td = listing_format(doc)
         td = listing_subject(doc)
         td == listing_categories(doc)
@@ -35,12 +39,12 @@ table class="table table-striped table-hover table-condensed text-center"
         td = doc.term
         td = listing_contributor(doc)
         td.tool-cells
-          a href="#" class="embeding-pdf"
-            span class="glyphicon glyphicon-folder-open"
-          a href="#{doc.document_location}" target="_blank" class="document-open-icon-links"
-            span class="glyphicon glyphicon-folder-open"
+          / a href="#" class="embeding-pdf"
+          /   span class="glyphicon glyphicon-folder-open"
           / a href="#{doc.document_location}" target="_blank" class="document-open-icon-links"
           /   span class="glyphicon glyphicon-folder-open"
+          a href="#" class="details-open-icon-links"
+            span class="glyphicon glyphicon-folder-open"
           span class="glyphicon glyphicon-pencil"
           span class="glyphicon glyphicon-remove"
 

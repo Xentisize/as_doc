@@ -9,12 +9,13 @@ $(function() {
 });
 
 $(function() {
-  $("table tbody tr").each(function() {
+  $("a.details-open-icon-links").each(function() {
     $(this).click(function() {
-      $("#footer").show();
-      var document_id = $(this).children().first().html();
-      var request_url = "/documents/" + document_id;
-      $.getJSON(request_url, function(data) {
+      if (($("#footer").attr("style")) == "display: none;") {
+        $("#footer").show();
+        var document_id = $(this).parent().parent().children().first().html();
+        var request_url = "/documents/" + document_id;
+        $.getJSON(request_url, function(data) {
         categories_content = "";
         for(var i=0; i<data['categories'].length; i++) {
           categories_content += "<li class='list-group-item'>";
@@ -22,16 +23,11 @@ $(function() {
           categories_content += "</li>";
         }
         $("#footer_categories_list").html(categories_content);
-      });
+      })
+      } else {
+        $("#footer").hide();
+      }
     });
-  });
-});
-
-$(function() {
-  $("tbody tr td a.embeding-pdf").click(function(event) {
-    event.stopPropagation();
-    $("table").after("<div id='pdf' class='row'>")
-    // $(this).parent().parent().after("<div id='pdf'>");
   });
 });
 
@@ -72,11 +68,16 @@ $(function() {
 
 
 $(function() {
-  $("table tr td:nth-child(4)").each(function() {
-  // console.log(this);
+  $("table tr td:nth-child(5)").each(function() {
+    //Hiding the categories column
   $(this).hide();
   });
 });
 
 
-
+$(function() {
+  $("tbody tr button").click(function(event) {
+    // event.stopPropagation();
+    $("#footer").hide();
+  });
+});
