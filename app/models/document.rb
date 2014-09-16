@@ -132,4 +132,5 @@ class Document < ActiveRecord::Base
     image_lists = Magick::ImageList.new(*marked_png_files)
     image_lists.write("#{@pdf_path}/#{@original_file.file.filename}")
   end
+
 end

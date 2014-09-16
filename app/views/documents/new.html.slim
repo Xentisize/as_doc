@@ -28,10 +28,12 @@ h2 New Document
       = sch.input :chinese_school, input_html: { list: "chinese-schools-list" }
       = render "view_caches/chinese_school_cache"
   div.form-group
-    = f.simple_fields_for :categories, legend: "Category" do |c|
+    = f.simple_fields_for :categories do |c|
       = c.input :category, input_html: { list: "categories-list" }
       = c.link_to_remove "remove"
     = f.link_to_add "add", :categories
+
+
   = render "view_caches/category_cache"
 
 
