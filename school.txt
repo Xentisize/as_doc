@@ -3,7 +3,7 @@ Caritas St. Joseph Secondary School, 明愛聖若瑟中學
 CCC Chuen Yuen College, 中華基督教會全完中學
 CNEC Christian College, 中華傳道會安柱中學
 Cotton Spinners Association Secondary School, 棉紡會中學
-HKSYC , & IA Chan Nam Chong Memorial College香港四邑商工總會陳南昌紀念中學
+HKSYC & IA Chan Nam Chong Memorial College, 香港四邑商工總會陳南昌紀念中學
 Ju Ching Chu Secondary School (Kwai Chung), 裘錦秋中學（葵涌）
 Kwai Chung Methodist College, 葵涌循道中學
 Lingnan Dr Chung Wing Kwong Memorial Secondary School, 嶺南鍾榮光博士紀念中學
@@ -14,7 +14,7 @@ CCC Yenching College, 中華基督教會燕京書院
 CNEC Lee I Yao Memorial Secondary School, 中華傳道會李賢堯紀念中學
 Daughters of Mary Help of Christians Siu Ming Catholic Secondary School, 天主教母佑會蕭明中學
 HKTA The Yuen Yuen Institute No. 1 Secondary School, 香港道教聯合會圓玄學院第一中學
-Kiangsu , - Chekiang College (Kwai Chung)葵涌蘇浙公學
+Kiangsu - Chekiang College (Kwai Chung), 葵涌蘇浙公學
 Lai King Catholic Secondary School, 荔景天主教中學
 Lions College, 獅子會中學
 Lok Sin Tong Leung Chik Wai Memorial School, 樂善堂梁植偉紀念中學
@@ -40,8 +40,8 @@ Po Leung Kuk Tong Nai Kan Junior Secondary College, 保良局唐乃勤初中書�
 SKH Li Ping Sec. Sch., 聖公會李炳中學
 TWGHs C Y Ma Memorial College, 東華三院馬振玉紀念中學
 Workers' Children Secondary School, 勞工子弟中學
-TWGHs Mr. , & Mrs. Kwong Sik Kwan College東華三院鄺錫坤伉儷中學
-AD, &FD POHL Leung Sing Tak College博愛醫院歷屆總理聯誼會梁省德中學
+TWGHs Mr. & Mrs. Kwong Sik Kwan College, 東華三院鄺錫坤伉儷中學
+AD&FD POHL Leung Sing Tak College, 博愛醫院歷屆總理聯誼會梁省德中學
 Liu Po Shan Memorial College, 廖寶珊紀念書院
 Po Leung Kuk Lee Shing Pik College, 保良局李城璧中學
 Po On Commercial Association Wong Siu Ching Secondary School, 寶安商會王少清中學
@@ -66,17 +66,17 @@ CNEC Lee I Yao Memorial Secondary School, 中華傳道會李賢堯紀念中學
 Daughters of Mary Help of Christians Siu Ming Catholic Secondary School, 天主教母佑會蕭明中學
 HKTA The Yuen Yuen Institute No. 1 Secondary School, 香港道教聯合會圓玄學院第一中學
 Hong Kong Sea School, 香港航海學校
-Kiangsu , - Chekiang College (Kwai Chung)葵涌蘇浙公學
+Kiangsu - Chekiang College (Kwai Chung), 葵涌蘇浙公學
 Kwai Chung Methodist College, 葵涌循道中學
 Lingnan Dr Chung Wing Kwong Memorial Secondary School, 嶺南鍾榮光博士紀念中學
 Lok Sin Tong Ku Chiu Man Secondary School, 樂善堂顧超文中學
 Po Leung Kuk Lo Kit Sing (1983) College, 保良局羅傑承（一九八三）中學
 CNEC Christian College, 中華傳道會安柱中學
 Cotton Spinners Association Secondary School, 棉紡會中學
-HKSYC , & IA Chan Nam Chong Memorial College香港四邑商工總會陳南昌紀念中學
+HKSYC & IA Chan Nam Chong Memorial College, 香港四邑商工總會陳南昌紀念中學
 Homantin Government Secondary School, 何文田官立中學
 Ju Ching Chu Secondary School (Kwai Chung), 裘錦秋中學（葵涌）
-Kiangsu, -Chekiang College (Shatin)沙田蘇浙公學
+Kiangsu-Chekiang College (Shatin), 沙田蘇浙公學
 Lai King Catholic Secondary School, 荔景天主教中學
 Lions College, 獅子會中學
 Lok Sin Tong Leung Chik Wai Memorial School, 樂善堂梁植偉紀念中學
@@ -93,7 +93,7 @@ Shek Lei Catholic Secondary School, 石籬天主教中學
 Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
 The Methodist Lee Wai Lee College, 循道衞理聯合教會李惠利中學
 TWGHs C Y Ma Memorial College, 東華三院馬振玉紀念中學
-TWGHs Mr. , & Mrs. Kwong Sik Kwan College東華三院鄺錫坤伉儷中學
+TWGHs Mr. & Mrs. Kwong Sik Kwan College, 東華三院鄺錫坤伉儷中學
 Workers' Children Secondary School, 勞工子弟中學
 Baptist Wing Lung Secondary School, 浸信會永隆中學
 Caritas Tuen Mun Marden Foundation Secondary School, 明愛屯門馬登基金中學
@@ -130,10 +130,10 @@ Shun Tak Fraternal Association Leung Kau Kui College, 順德聯誼總會梁銶�
 SKH St. Simon's Lui Ming Choi Secondary School, 聖公會聖西門呂明才中學
 Stewards MKMCF Ma Ko Pan Memorial College, 馬錦明慈善基金馬可賓紀念中學
 Tuen Mun Catholic Secondary School, 屯門天主教中學
-TWGHs Mr. , & Mrs. Kwong Sik Kwan College東華三院鄺錫坤伉儷中學
+TWGHs Mr. & Mrs. Kwong Sik Kwan College, 東華三院鄺錫坤伉儷中學
 TWGHs Yau Tze Tin Memorial College, 東華三院邱子田紀念中學
 Yan Oi Tong Chan Wong Suk Fong Memorial Secondary School, 仁愛堂陳黃淑芳紀念中學
-YPI , & CA Lee Lim Ming College恩平工商會李琳明中學
+YPI & CA Lee Lim Ming College, 恩平工商會李琳明中學
 Heung To Middle School (Tin Shui Wai), 天水圍香島中學
 N.T. Heung Yee Kuk Yuen Long District Secondary School, 新界鄉議局元朗區中學
 Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
@@ -180,7 +180,7 @@ YLPMSAA Tang Siu Tong Secondary School, 元朗公立中學校友會鄧兆棠中�
 Yuen Long Merchants Association Secondary School, 元朗商會中學
 Caritas Ma On Shan Secondary School, 明愛馬鞍山中學
 Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
-TWGHs Mr. , & Mrs. Kwong Sik Kwan College東華三院鄺錫坤伉儷中學
+TWGHs Mr. & Mrs. Kwong Sik Kwan College, 東華三院鄺錫坤伉儷中學
 Tai Po Sam Yuk Secondary School, 大埔三育中學
 Caritas Fanling Chan Chun Ha Secondary School, 明愛粉嶺陳震夏中學
 Christian Alliance S W Chan Memorial College, 宣道會陳朱素華紀念中學
@@ -210,13 +210,13 @@ Confucian Ho Kwok Pui Chun College, 孔教學院何郭佩珍中學
 Hong Kong Red Swastika Society Tai Po Secondary School, 香港紅卍字會大埔卍慈中學
 Hong Kong Teachers' Association Lee Heng Kwei Secondary School, 香港教師會李興貴中學
 Ling Liang Church M H Lau Secondary School, 靈糧堂劉梅軒中學
-SALEM, -Immanuel Lutheran College南亞路德會沐恩中學
+SALEM-Immanuel Lutheran College, 南亞路德會沐恩中學
 SKH Bishop Mok Sau Tseng Secondary School, 聖公會莫壽增會督中學
 Buddhist Tai Kwong Chi Hong College, 佛教大光慈航中學
 Carmel Holy Word Secondary School, 迦密聖道中學
 CCC Fung Leung Kit Memorial Secondary School, 中華基督教會馮梁結紀念中學
 China Holiness Church Living Spirit College, 中華聖潔會靈風中學
-HK , & KLN Kaifong Women's Association Sun Fong Chung College港九街坊婦女會孫方中書院
+HK & KLN Kaifong Women's Association Sun Fong Chung College, 港九街坊婦女會孫方中書院
 Hong Kong Taoist Association The Yuen Yuen Institute No. 2 Secondary Sch., 香港道教聯合會圓玄學院第二中學
 Kau Yan College, 救恩書院
 NT Heung Yee Kuk Tai Po District Secondary School, 新界鄉議局大埔區中學
@@ -231,18 +231,18 @@ Chinese YMCA College, 青年會書院
 Christ College, 基督書院
 CUHKFAA Chan Chun Ha Secondary School, 香港中文大學校友會聯會陳震夏中學
 Helen Liang Memorial Secondary School (Shatin), 梁文燕紀念中學（沙田）
-HKBU Affiliated School Wong Kam Fai Secondary , & Primary School香港浸會大學附屬學校王錦輝中小學
+HKBU Affiliated School Wong Kam Fai Secondary & Primary School, 香港浸會大學附屬學校王錦輝中小學
 Immaculate Heart of Mary College, 聖母無玷聖心書院
-Kiangsu, -Chekiang College (Shatin)沙田蘇浙公學
+Kiangsu-Chekiang College (Shatin), 沙田蘇浙公學
 Lam Tai Fai College, 林大輝中學
 Buddhist Kok Kwong Secondary School, 佛教覺光法師中學
 Caritas Ma On Shan Secondary School, 明愛馬鞍山中學
 Chiu Chow Association Secondary School, 潮州會館中學
 Christian Alliance Cheng Wing Gee College, 香港九龍塘基督教中華宣道會鄭榮之中學
-GCC, &ITKD Lau Pak Lok Secondary School東莞工商總會劉百樂中學
-HK , & KLN CCPA Ma Chung Sum Secondary School港九潮州公會馬松深中學
+GCC&ITKD Lau Pak Lok Secondary School, 東莞工商總會劉百樂中學
+HK & KLN CCPA Ma Chung Sum Secondary School, 港九潮州公會馬松深中學
 HKCWC Fung Yiu King Memorial Secondary School, 香港中國婦女會馮堯敬紀念中學
-Jockey Club Ti, -I College賽馬會體藝中學
+Jockey Club Ti-I College, 賽馬會體藝中學
 Kwok Tak Seng Catholic Secondary School, 天主教郭得勝中學
 Lock Tao Secondary School, 樂道中學
 Lok Sin Tong Young Ko Hsiao Lin Secondary School, 樂善堂楊葛小琳中學
@@ -287,11 +287,11 @@ Tai Po Sam Yuk Secondary School, 大埔三育中學
 Buddhist Tai Kwong Chi Hong College, 佛教大光慈航中學
 Carmel Pak U Secondary School, 迦密柏雨中學
 China Holiness Church Living Spirit College, 中華聖潔會靈風中學
-HK , & KLN Kaifong Women's Association Sun Fong Chung College港九街坊婦女會孫方中書院
+HK & KLN Kaifong Women's Association Sun Fong Chung College, 港九街坊婦女會孫方中書院
 Hong Kong Taoist Association The Yuen Yuen Institute No. 2 Secondary Sch., 香港道教聯合會圓玄學院第二中學
 Kau Yan College, 救恩書院
 Ling Liang Church M H Lau Secondary School, 靈糧堂劉梅軒中學
-SALEM, -Immanuel Lutheran College南亞路德會沐恩中學
+SALEM-Immanuel Lutheran College, 南亞路德會沐恩中學
 Tai Po Government Secondary School, 大埔官立中學
 Valtorta College, 恩主教書院
 Wong Shiu Chi Secondary School, 王肇枝中學
@@ -351,15 +351,15 @@ CUHKFAA Chan Chun Ha Secondary School, 香港中文大學校友會聯會陳震�
 Delia Memorial School (Yuet Wah), 地利亞修女紀念學校（月華）
 FDBWA Szeto Ho Secondary School, 五邑司徒浩中學
 Heung To Middle School, 香島中學
-HK , & KLN Chiu Chow Public Assn. Sec. School港九潮州公會中學
+HK & KLN Chiu Chow Public Assn. Sec. School, 港九潮州公會中學
 Hong Kong Sea School, 香港航海學校
-Kiangsu, -Chekiang College蘇浙公學
+Kiangsu-Chekiang College, 蘇浙公學
 Lai Chack Middle School, 麗澤中學
 Lung Cheung Government Secondary School, 龍翔官立中學
 Cognitio College (Kowloon), 文理書院（九龍）
 Delia Memorial School (Matteo Ricci), 地利亞修女紀念學校（利瑪竇）
 ELCHK Lutheran Secondary School, 基督教香港信義會信義中學
-GCC, &ITKD Lau Pak Lok Secondary School東莞工商總會劉百樂中學
+GCC&ITKD Lau Pak Lok Secondary School, 東莞工商總會劉百樂中學
 Heung To Secondary School (Tseung Kwan O), 將軍澳香島中學
 HKWMA Chu Shek Lun Secondary School, 香港布廠商會朱石麟中學
 Islamic Kasim Tuet Memorial College, 伊斯蘭脫維善紀念中學
@@ -380,8 +380,8 @@ Ng Yuk Secondary School, 五育中學
 Po Leung Kuk Tong Nai Kan Junior Secondary College, 保良局唐乃勤初中書院
 Queen Elizabeth School, 伊利沙伯中學
 SKH All Saints' Middle School, 聖公會諸聖中學
-St. Bonaventure College , & High School聖文德書院
-St. Joseph's Anglo, -Chinese School聖若瑟英文中學
+St. Bonaventure College & High School, 聖文德書院
+St. Joseph's Anglo-Chinese School, 聖若瑟英文中學
 St. Rose of Lima's College, 聖羅撒書院
 Tak Nga Secondary School, 德雅中學
 Tsang Pik Shan Secondary School, 曾璧山中學
@@ -389,3 +389,599 @@ TWGHs Wong Fung Ling College, 東華三院黃鳳翎中學
 TWGHs Yow Kam Yuen College, 東華三院邱金元中學
 Wai Kiu College, 惠僑英文中學
 Wah Yan College Kowloon, 華仁書院（九龍）
+Buddhist Ho Nam Kam College, 佛教何南金中學
+CCC Mong Man Wai College, 中華基督教會蒙民偉書院
+Delia Memorial School (Matteo Ricci), 地利亞修女紀念學校（利瑪竇）
+ECF Saint Too Canaan College, 基督教中國佈道會聖道迦南書院
+Fukien Secondary School, 福建中學
+HKWMA Chu Shek Lun Secondary School, 香港布廠商會朱石麟中學
+Kwun Tong Government Secondary School, 觀塘官立中學
+Kwun Tong Maryknoll College, 觀塘瑪利諾書院
+Maryknoll Secondary School, 瑪利諾中學
+Ning Po College, 寧波公學
+CCC Kei Chi Secondary School, 中華基督教會基智中學
+Delia Memorial School (Hip Wo), 地利亞修女紀念學校（協和）
+Delia Memorial School (Yuet Wah), 地利亞修女紀念學校（月華）
+FDBWA Szeto Ho Secondary School, 五邑司徒浩中學
+HKSKH Bishop Hall Secondary School, 香港聖公會何明華會督中學
+Ko Lui Secondary School, 高雷中學
+Kwun Tong Kung Lok Government Secondary School, 觀塘功樂官立中學
+Leung Shek Chee College, 梁式芝書院
+Mu Kuang English School, 慕光英文書院
+Ning Po No. 2 College, 寧波第二中學
+NLSI Lui Kwok Pat Fong College, 新生命教育協會呂郭碧鳳中學
+Shun Lee Catholic Secondary School, 順利天主教中學
+SKH Kei Hau Secondary School, 聖公會基孝中學
+St. Antonius Girls' College, 聖安當女書院
+St. Joseph's Anglo-Chinese School, 聖若瑟英文中學
+The Hong Kong Taoist Association Ching Chung Secondary School, 香港道教聯合會青松中學
+United Christian College (Kowloon East), 滙基書院（東九龍）
+Bishop Hall Jubilee School, 何明華會督銀禧中學
+Caritas Chai Wan Marden Foundation Secondary School, 明愛柴灣馬登基金中學
+Carmel Divine Grace Foundation Secondary School, 迦密主恩中學
+Po Chiu Catholic Secondary School, 天主教普照中學
+Sing Yin Secondary School, 聖言中學
+SKH Leung Kwai Yee Secondary School, 聖公會梁季彜中學
+St. Catharine's School For Girls (Kwun Tong), 聖傑靈女子中學
+St. Paul's School (Lam Tin), 藍田聖保祿中學
+The Mission Covenant Church Holm Glad College, 基督教聖約教會堅樂中學
+Yan Chai Hospital Law Chan Chor Si College, 仁濟醫院羅陳楚思中學
+Buddhist Hung Sean Chau Memorial College, 佛教孔仙洲紀念中學
+Caritas Ma On Shan Secondary School, 明愛馬鞍山中學
+Catholic Ming Yuen Secondary School, 天主教鳴遠中學
+CCC Heep Woh College, 中華基督教會協和書院
+CCC Kwei Wah Shan College, 中華基督教會桂華山中學
+Chan Shu Kui Memorial School, 陳樹渠紀念中學
+Cheng Chek Chee Secondary School of SK & HH Dist. NT, 新界西貢坑口區鄭植之中學
+Chi Lin Buddhist Secondary School, 佛教志蓮中學
+Chong Gene Hang College, 張振興伉儷書院
+Cognitio College (HK), 文理書院（香港）
+Concordia Lutheran School, 路德會協同中學
+Fukien Secondary School (Siu Sai Wan), 福建中學（小西灣）
+HHCKLA Buddhist Ching Kok Secondary School, 香海正覺蓮社佛教正覺中學
+CCC Kei Heep Secondary School, 中華基督教會基協中學
+CCC Rotary Secondary School, 中華基督教會扶輪中學
+Chan Sui Ki (La Salle) College, 陳瑞祺（喇沙）書院
+Cheung Chuk Shan College, 張祝珊英文中學
+Choi Hung Estate Catholic Secondary School, 彩虹邨天主教英文中學
+Christian & Missionary Alliance Sun Kei Secondary School, 基督教宣道會宣基中學
+Cognitio College (Kowloon), 文理書院（九龍）
+Concordia Lutheran School - North Point, 北角協同中學
+Heung To Secondary School (Tseung Kwan O), 將軍澳香島中學
+HKMLC Queen Maud Secondary School, 港澳信義會慕德中學
+HKSYC & IA Wong Tai Shan Memorial College, 香港四邑商工總會黃棣珊紀念中學
+Holy Trinity College, 寶血會上智英文書院
+Hong Kong Sea School, 香港航海學校
+Islamic Kasim Tuet Memorial College, 伊斯蘭脫維善紀念中學
+Kiangsu-Chekiang College, 蘇浙公學
+Kit Sam Lam Bing Yim Secondary School, 潔心林炳炎中學
+Lingnan Hang Yee Memorial Secondary School, 嶺南衡怡紀念中學
+Lok Sin Tong Wong Chung Ming Secondary School, 樂善堂王仲銘中學
+Lung Cheung Government Secondary School, 龍翔官立中學
+MKMCF Ma Chan Duen Hey Memorial College, 馬錦明慈善基金馬陳端喜紀念中學
+Ho Lap College (Sponsored by Sik Sik Yuen), 可立中學（嗇色園主辦）
+Homantin Government Secondary School, 何文田官立中學
+Hong Kong Taoist Association The Yuen Yuen Institute No. 3 Secondary School, 香港道教聯合會圓玄學院第三中學
+Jockey Club Government Secondary School, 賽馬會官立中學
+King Ling College, 景嶺書院
+Lee Kau Yan Memorial School, 李求恩紀念中學
+Lingnan Secondary School, 嶺南中學
+Lok Sin Tong Yu Kan Hing Secondary School, 樂善堂余近卿中學
+Man Kiu College, 閩僑中學
+Ng Wah Catholic Secondary School, 天主教伍華中學
+Our Lady of The Rosary College, 聖母玫瑰書院
+PHC Wing Kwong College, 五旬節聖潔會永光書院
+Po Leung Kuk Celine Ho Yam Tong College, 保良局何蔭棠中學
+Po Leung Kuk No.1 W.H. Cheung College, 保良局第一張永慶中學
+Precious Blood Secondary School, 寶血女子中學
+Sai Kung Sung Tsun Catholic School (Secondary Section), 西貢崇真天主教學校（中學部）
+Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
+SKH St. Benedict's School, 聖公會聖本德中學
+St. Joan of Arc Secondary School, 聖貞德中學
+STFA Cheng Yu Tung Secondary School, 順德聯誼總會鄭裕彤中學
+Our Lady's College, 聖母書院
+Po Kok Secondary School, 寶覺中學
+Po Leung Kuk Ho Yuk Ching (1984) College, 保良局甲子何玉清中學
+POH 80th Anniversary Tang Ying Hei College, 博愛醫院八十週年鄧英喜中學
+Qualied College, 匯知中學
+Salvation Army William Booth Secondary School, 救世軍卜維廉中學
+SKH Li Fook Hing Secondary School, 聖公會李福慶中學
+St. Bonaventure College & High School, 聖文德書院
+Stewards Pooi Tun Secondary School, 香港神託會培敦中學
+Tak Oi Secondary School, 德愛中學
+Tseung Kwan O Government Secondary School, 將軍澳官立中學
+Wa Ying College, 華英中學
+Workers' Children Secondary School, 勞工子弟中學
+Yan Chai Hospital Wong Wha San Secondary School, 仁濟醫院王華湘中學
+TWGHs C Y Ma Memorial College, 東華三院馬振玉紀念中學
+WEO Chang Pui Chung Memorial School, 威靈頓教育機構張沛松紀念中學
+Yan Chai Hospital Lan Chi Pat Memorial Secondary School, 仁濟醫院靚次伯紀念中學
+Carmel Divine Grace Foundation Secondary School, 迦密主恩中學
+Cheng Chek Chee Secondary School of SK & HH Dist. NT, 新界西貢坑口區鄭植之中學
+Creative Secondary School, 啟思中學
+G.T. (Ellen Yeung) College, 優才（楊殷有娣）書院
+HHCKLA Buddhist Ching Kok Secondary School, 香海正覺蓮社佛教正覺中學
+HKMLC Queen Maud Secondary School, 港澳信義會慕德中學
+King Ling College, 景嶺書院
+PLK Laws Foundation College, 保良局羅氏基金中學
+Po Leung Kuk Ho Yuk Ching (1984) College, 保良局甲子何玉清中學
+Qualied College, 匯知中學
+Catholic Ming Yuen Secondary School, 天主教鳴遠中學
+Christian & Missionary Alliance Sun Kei Secondary School, 基督教宣道會宣基中學
+Evangel College, 播道書院
+Heung To Secondary School (Tseung Kwan O), 將軍澳香島中學
+HKCCCU Logos Academy, 香港華人基督教聯會真道書院
+Hong Kong Taoist Association The Yuen Yuen Institute No. 3 Secondary School, 香港道教聯合會圓玄學院第三中學
+MKMCF Ma Chan Duen Hey Memorial College, 馬錦明慈善基金馬陳端喜紀念中學
+Po Kok Secondary School, 寶覺中學
+POH 80th Anniversary Tang Ying Hei College, 博愛醫院八十週年鄧英喜中學
+Sai Kung Sung Tsun Catholic School (Secondary Section), 西貢崇真天主教學校（中學部）
+STFA Cheng Yu Tung Secondary School, 順德聯誼總會鄭裕彤中學
+TWGHs Lui Yun Choy Memorial College, 東華三院呂潤財紀念中學
+Yan Chai Hospital Lan Chi Pat Memorial Secondary School, 仁濟醫院靚次伯紀念中學
+Yeo Chei Man Senior Secondary School, 邱子文高中學校
+Caritas Ma On Shan Secondary School, 明愛馬鞍山中學
+Fortress Hill Methodist Secondary School, 炮台山循道衛理中學
+Homantin Government Secondary School, 何文田官立中學
+Jockey Club Government Secondary School, 賽馬會官立中學
+Kwun Tong Government Secondary School, 觀塘官立中學
+Kwun Tong Maryknoll College, 觀塘瑪利諾書院
+Tseung Kwan O Government Secondary School, 將軍澳官立中學
+WEO Chang Pui Chung Memorial School, 威靈頓教育機構張沛松紀念中學
+Yan Chai Hospital Wong Wha San Secondary School, 仁濟醫院王華湘中學
+Caritas Chai Wan Marden Foundation Secondary School, 明愛柴灣馬登基金中學
+Delia Memorial School (Yuet Wah), 地利亞修女紀念學校（月華）
+HKSKH Bishop Hall Secondary School, 香港聖公會何明華會督中學
+Hong Kong Sea School, 香港航海學校
+Kiangsu-Chekiang College, 蘇浙公學
+Kwun Tong Kung Lok Government Secondary School, 觀塘功樂官立中學
+Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
+St. Catharine's School For Girls (Kwun Tong), 聖傑靈女子中學
+TWGHs C Y Ma Memorial College, 東華三院馬振玉紀念中學
+Buddhist Tai Hung College, 佛教大雄中學
+Chan Shu Kui Memorial School, 陳樹渠紀念中學
+China Holiness College, 中聖書院
+Concordia Lutheran School, 路德會協同中學
+Delia Memorial School (Glee Path), 地利亞修女紀念學校（吉利徑）
+HKSYC & IA Wong Tai Shan Memorial College, 香港四邑商工總會黃棣珊紀念中學
+Kowloon Technical School, 九龍工業學校
+Nam Wah Catholic Secondary School, 天主教南華中學
+Po Leung Kuk Choi Kai Yau School, 保良局蔡繼有學校
+SKH St. Mary's Church Mok Hing Yiu College, 聖公會聖馬利亞堂莫慶堯中學
+CCC Ming Yin College, 中華基督教會銘賢書院
+Cheung Sha Wan Catholic Secondary School, 長沙灣天主教英文中學
+CMA Secondary School, 廠商會中學
+Delia Memorial School (Broadway), 地利亞修女紀念學校（百老匯）
+Heung To Middle School, 香島中學
+Holy Trinity College, 寶血會上智英文書院
+Maryknoll Fathers' School, 瑪利諾神父教會學校
+Our Lady of The Rosary College, 聖母玫瑰書院
+Po Leung Kuk Tong Nai Kan Junior Secondary College, 保良局唐乃勤初中書院
+St. Margaret's Co-Educational English Secondary and Primary School, 聖瑪加利男女英文中小學
+Tack Ching Girls' Secondary School, 德貞女子中學
+Tsung Tsin Christian Academy, 基督教崇真中學
+United Christian College, 匯基書院
+Ying Wa College, 英華書院
+Bishop Hall Jubilee School, 何明華會督銀禧中學
+Buddhist Wong Wan Tin College, 佛教黃允畋中學
+CCC Kei Heep Secondary School, 中華基督教會基協中學
+CCC Rotary Secondary School, 中華基督教會扶輪中學
+Chinese YMCA College, 青年會書院
+ELCHK Lutheran Secondary School, 基督教香港信義會信義中學
+Tak Nga Secondary School, 德雅中學
+TWGHs Chang Ming Thien College, 東華三院張明添中學
+Wai Kiu College, 惠僑英文中學
+Aberdeen Technical School, 香港仔工業學校
+Buddhist Kok Kwong Secondary School, 佛教覺光法師中學
+Caritas Ma On Shan Secondary School, 明愛馬鞍山中學
+CCC Ming Kei College, 中華基督教會銘基書院
+Chi Lin Buddhist Secondary School, 佛教志蓮中學
+Christian Alliance Cheng Wing Gee College, 香港九龍塘基督教中華宣道會鄭榮之中學
+Heung To Secondary School (Tseung Kwan O), 將軍澳香島中學
+HK & KLN Chiu Chow Public Assn. Sec. School, 港九潮州公會中學
+HKSKH Bishop Hall Secondary School, 香港聖公會何明華會督中學
+Hoi Ping Chamber of Commerce Secondary School, 旅港開平商會中學
+Hong Kong Sea School, 香港航海學校
+Islamic Kasim Tuet Memorial College, 伊斯蘭脫維善紀念中學
+Kowloon Sam Yuk Secondary School, 九龍三育中學
+La Salle College, 喇沙書院
+Lock Tao Secondary School, 樂道中學
+Lung Kong WFSL Lau Wong Fat Secondary School, 世界龍岡學校劉皇發中學
+Pentecostal Lam Hon Kwong School, 五旬節林漢光中學
+HKCWC Fung Yiu King Memorial Secondary School, 香港中國婦女會馮堯敬紀念中學
+HKWMA Chu Shek Lun Secondary School, 香港布廠商會朱石麟中學
+Homantin Government Secondary School, 何文田官立中學
+Immaculate Heart of Mary College, 聖母無玷聖心書院
+Jockey Club Government Secondary School, 賽馬會官立中學
+Kowloon Tong School (Secondary Section), 九龍塘學校（中學部）
+Lai Chack Middle School, 麗澤中學
+Lok Sin Tong Young Ko Hsiao Lin Secondary School, 樂善堂楊葛小琳中學
+Newman Catholic College, 天主教新民書院
+Po Leung Kuk C W Chu College, 保良局朱敬文中學
+Pooi To Middle School, 香港培道中學
+Sha Tin Government Secondary School, 沙田官立中學
+Shatin Pui Ying College, 沙田培英中學
+Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
+SKH Holy Carpenter Secondary School, 聖公會聖匠中學
+St. Francis Xavier's College, 聖芳濟書院
+Tsuen Wan Government Secondary School, 荃灣官立中學
+TWGHs Mrs. Fung Wong Fung Ting College, 東華三院馮黃鳳亭中學
+Workers' Children Secondary School, 勞工子弟中學
+Yu Chun Keung Memorial College, 余振強紀念中學
+Rhenish Church Pang Hok Ko Memorial College, 禮賢會彭學高紀念中學
+Sha Tin Methodist College, 沙田循道衛理中學
+Shatin Tsung Tsin Secondary School, 沙田崇真中學
+SKH All Saints' Middle School, 聖公會諸聖中學
+SKH Tsang Shiu Tim Secondary School, 聖公會曾肇添中學
+True Light Girls' College, 真光女書院
+TWGHs C Y Ma Memorial College, 東華三院馬振玉紀念中學
+Wah Yan College Kowloon, 華仁書院（九龍）
+Ying Wa Girls' School, 英華女學校
+Buddhist Hung Sean Chau Memorial College, 佛教孔仙洲紀念中學
+CCC Kei Heep Secondary School, 中華基督教會基協中學
+Chi Lin Buddhist Secondary School, 佛教志蓮中學
+Cognitio College (Kowloon), 文理書院（九龍）
+Ho Lap College (Sponsored by Sik Sik Yuen), 可立中學（嗇色園主辦）
+Lee Kau Yan Memorial School, 李求恩紀念中學
+Lok Sin Tong Yu Kan Hing Secondary School, 樂善堂余近卿中學
+Ng Wah Catholic Secondary School, 天主教伍華中學
+PHC Wing Kwong College, 五旬節聖潔會永光書院
+Po Leung Kuk No.1 W.H. Cheung College, 保良局第一張永慶中學
+CCC Heep Woh College, 中華基督教會協和書院
+CCC Rotary Secondary School, 中華基督教會扶輪中學
+Choi Hung Estate Catholic Secondary School, 彩虹邨天主教英文中學
+Good Hope School, 德望學校
+Kit Sam Lam Bing Yim Secondary School, 潔心林炳炎中學
+Lok Sin Tong Wong Chung Ming Secondary School, 樂善堂王仲銘中學
+Lung Cheung Government Secondary School, 龍翔官立中學
+Our Lady's College, 聖母書院
+Po Leung Kuk Celine Ho Yam Tong College, 保良局何蔭棠中學
+Salvation Army William Booth Secondary School, 救世軍卜維廉中學
+SKH St. Benedict's School, 聖公會聖本德中學
+Stewards Pooi Tun Secondary School, 香港神託會培敦中學
+Baptist Lui Ming Choi Secondary School, 浸信會呂明才中學
+Caritas Ma On Shan Secondary School, 明愛馬鞍山中學
+Chan Shu Kui Memorial School, 陳樹渠紀念中學
+Chiu Chow Association Secondary School, 潮州會館中學
+Delia Memorial School (Matteo Ricci), 地利亞修女紀念學校（利瑪竇）
+Heung To Secondary School (Tseung Kwan O), 將軍澳香島中學
+HKSKH Bishop Hall Secondary School, 香港聖公會何明華會督中學
+Homantin Government Secondary School, 何文田官立中學
+St. Bonaventure College & High School, 聖文德書院
+Tak Oi Secondary School, 德愛中學
+Bishop Hall Jubilee School, 何明華會督銀禧中學
+Catholic Ming Yuen Secondary School, 天主教鳴遠中學
+Cheng Chek Chee Secondary School of SK & HH Dist. NT, 新界西貢坑口區鄭植之中學
+CMA Secondary School, 廠商會中學
+Delia Memorial School (Yuet Wah), 地利亞修女紀念學校（月華）
+HKMLC Queen Maud Secondary School, 港澳信義會慕德中學
+HKWMA Chu Shek Lun Secondary School, 香港布廠商會朱石麟中學
+Hong Kong Sea School, 香港航海學校
+Islamic Kasim Tuet Memorial College, 伊斯蘭脫維善紀念中學
+Kowloon Tong School (Secondary Section), 九龍塘學校（中學部）
+Kwok Tak Seng Catholic Secondary School, 天主教郭得勝中學
+Ma On Shan St. Joseph's Secondary School, 馬鞍山聖若瑟中學
+Maryknoll Convent School (Secondary Section), 瑪利諾修院學校（中學部）
+Mu Kuang English School, 慕光英文書院
+POH Chan Kai Memorial College, 博愛醫院陳楷紀念中學
+Qualied College, 匯知中學
+Sai Kung Sung Tsun Catholic School (Secondary Section), 西貢崇真天主教學校（中學部）
+SKH Lam Kau Mow Secondary School, 聖公會林裘謀中學
+Jockey Club Government Secondary School, 賽馬會官立中學
+Kowloon True Light Middle School, 九龍真光中學
+Kwun Tong Government Secondary School, 觀塘官立中學
+Ma On Shan Tsung Tsin Secondary School, 馬鞍山崇真中學
+Maryknoll Secondary School, 瑪利諾中學
+Po Leung Kuk Tong Nai Kan Junior Secondary College, 保良局唐乃勤初中書院
+Pooi To Middle School, 香港培道中學
+Rhenish Church Pang Hok Ko Memorial College, 禮賢會彭學高紀念中學
+Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
+TWGHs C Y Ma Memorial College, 東華三院馬振玉紀念中學
+Wai Kiu College, 惠僑英文中學
+Yan Chai Hospital Lan Chi Pat Memorial Secondary School, 仁濟醫院靚次伯紀念中學
+Workers' Children Secondary School, 勞工子弟中學
+Yan Chai Hospital Tung Chi Ying Memorial Secondary School, 仁濟醫院董之英紀念中學
+CCC Ming Kei College, 中華基督教會銘基書院
+ELCHK Lutheran Secondary School, 基督教香港信義會信義中學
+HKMA David Li Kwok Po College, 香港管理專業協會李國寶中學
+Lai Chack Middle School, 麗澤中學
+Methodist College, 循道中學
+Queen Elizabeth School, 伊利沙伯中學
+SKH All Saints' Middle School, 聖公會諸聖中學
+St. Mary's Canossian College, 嘉諾撒聖瑪利書院
+Wah Yan College Kowloon, 華仁書院（九龍）
+Buddhist Ho Nam Kam College, 佛教何南金中學
+Diocesan Girls' School, 拔萃女書院
+HK & KLN Chiu Chow Public Assn. Sec. School, 港九潮州公會中學
+Kowloon Sam Yuk Secondary School, 九龍三育中學
+Lung Kong WFSL Lau Wong Fat Secondary School, 世界龍岡學校劉皇發中學
+Newman Catholic College, 天主教新民書院
+Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
+St. Francis Xavier's College, 聖芳濟書院
+True Light Girls' College, 真光女書院
+Belilios Public School, 庇理羅士女子中學
+Caritas Ma On Shan Secondary School, 明愛馬鞍山中學
+CCC Kei To Secondary School, 中華基督教會基道中學
+CCC Rotary Secondary School, 中華基督教會扶輪中學
+Chi Lin Buddhist Secondary School, 佛教志蓮中學
+CMA Secondary School, 廠商會中學
+Delia Memorial School (Matteo Ricci), 地利亞修女紀念學校（利瑪竇）
+Heung To Middle School, 香島中學
+HKSYC & IA Wong Tai Shan Memorial College, 香港四邑商工總會黃棣珊紀念中學
+Homantin Government Secondary School, 何文田官立中學
+Islamic Kasim Tuet Memorial College, 伊斯蘭脫維善紀念中學
+Kiangsu-Chekiang College, 蘇浙公學
+CCC Ming Yin College, 中華基督教會銘賢書院
+Chan Shu Kui Memorial School, 陳樹渠紀念中學
+China Holiness College, 中聖書院
+Concordia Lutheran School, 路德會協同中學
+Helen Liang Memorial Secondary School (Shatin), 梁文燕紀念中學（沙田）
+Heung To Secondary School (Tseung Kwan O), 將軍澳香島中學
+HKWMA Chu Shek Lun Secondary School, 香港布廠商會朱石麟中學
+Hong Kong Sea School, 香港航海學校
+Jockey Club Government Secondary School, 賽馬會官立中學
+Kowloon Technical School, 九龍工業學校
+La Salle College, 喇沙書院
+New Asia Middle School, 新亞中學
+Po Leung Kuk Wu Chung College, 保良局胡忠中學
+SKH Holy Carpenter Secondary School, 聖公會聖匠中學
+SKH St. Mary's Church Mok Hing Yiu College, 聖公會聖馬利亞堂莫慶堯中學
+St. Bonaventure College & High School, 聖文德書院
+Toi Shan Association College, 台山商會中學
+TWGHs Chang Ming Thien College, 東華三院張明添中學
+United Christian College, 匯基書院
+Workers' Children Secondary School, 勞工子弟中學
+Nam Wah Catholic Secondary School, 天主教南華中學
+Po Leung Kuk Tong Nai Kan Junior Secondary College, 保良局唐乃勤初中書院
+Pooi To Middle School, 香港培道中學
+SKH Holy Trinity Church Secondary School, 聖公會聖三一堂中學
+SKH Tsoi Kung Po Secondary School, 聖公會蔡功譜中學
+Tang King Po School, 鄧鏡波學校
+TWGHs C Y Ma Memorial College, 東華三院馬振玉紀念中學
+TWGHs Wong Fut Nam College, 東華三院黃笏南中學
+Wai Kiu College, 惠僑英文中學
+King's College, 英皇書院
+Raimondi College, 高主教書院
+St. Joseph's College, 聖若瑟英文書院
+St. Margaret's Girls' College, , Hong Kong香港聖瑪加利女書院
+St. Paul's College, 聖保羅書院
+St. Stephen's Girls' College, 聖士提反女子中學
+Aberdeen Baptist Lui Ming Choi College, 香港仔浸信會呂明才書院
+Belilios Public School, 庇理羅士女子中學
+Caritas Chai Wan Marden Foundation Secondary School, 明愛柴灣馬登基金中學
+Caritas Ma On Shan Secondary School, 明愛馬鞍山中學
+Lok Sin Tong Leung Kau Kui College, 樂善堂梁銶琚書院
+St. Clare's Girls' School, 聖嘉勒女書院
+St. Louis School, 聖類斯中學
+St. Paul's Co-educational College, 聖保羅男女中學
+St. Stephen's Church College, 聖士提反堂中學
+Ying Wa Girls' School, 英華女學校
+Aberdeen Technical School, 香港仔工業學校
+Buddhist Wong Fung Ling College, 佛教黃鳳翎中學
+Caritas Chong Yuet Ming Secondary School, 明愛莊月明中學
+Caritas Wu Cheng-chung Secondary School, 明愛胡振中中學
+Chong Gene Hang College, 張振興伉儷書院
+Cognitio College (HK), 文理書院（香港）
+Fortress Hill Methodist Secondary School, 炮台山循道衛理中學
+Hong Kong Sea School, 香港航海學校
+Hotung Secondary School, 何東中學
+Kiangsu-Chekiang College, 蘇浙公學
+Lingnan Secondary School, 嶺南中學
+Precious Blood Secondary School, 寶血女子中學
+Pui Tak Canossian College, 嘉諾撒培德書院
+Queen's College, 皇仁書院
+Clementi Secondary School, 金文泰中學
+Concordia Lutheran School - North Point, 北角協同中學
+Hon Wah College, 漢華中學
+Hong Kong True Light College, 香港真光書院
+Islamic Kasim Tuet Memorial College, 伊斯蘭脫維善紀念中學
+Lingnan Hang Yee Memorial Secondary School, 嶺南衡怡紀念中學
+Man Kiu College, 閩僑中學
+Pui Kiu Middle School, 培僑中學
+Pui Ying Secondary School, 培英中學
+Rosaryhill School, 玫瑰崗學校
+Sacred Heart Canossian College, 嘉諾撒聖心書院
+Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
+SKH Tang Shiu Kin Secondary School, 聖公會鄧肇堅中學
+St. Peter's Secondary School, 聖伯多祿中學
+True Light Middle School of Hong Kong, 香港真光中學
+TWGHs Lee Ching Dea Memorial College, 東華三院李潤田紀念中學
+San Wui Commercial Soc. Chan Pak Sha School, 新會商會陳白沙紀念中學
+SKH Lui Ming Choi Secondary School, 聖公會呂明才中學
+St. Joan of Arc Secondary School, 聖貞德中學
+Tang Shiu Kin Victoria Government Secondary School, 鄧肇堅維多利亞官立中學
+TWGHs C Y Ma Memorial College, 東華三院馬振玉紀念中學
+Yu Chun Keung Memorial College No. 2, 余振強紀念第二中學
+Belilios Public School, 庇理羅士女子中學
+Caritas Chai Wan Marden Foundation Secondary School, 明愛柴灣馬登基金中學
+Cheung Chuk Shan College, 張祝珊英文中學
+Clementi Secondary School, 金文泰中學
+Cognitio College (HK), 文理書院（香港）
+Fortress Hill Methodist Secondary School, 炮台山循道衛理中學
+Henrietta Secondary School, 顯理中學
+Hong Kong Chinese Women's Club College, 香港中國婦女會中學
+Kiangsu-Chekiang College, 蘇浙公學
+Lingnan Secondary School, 嶺南中學
+Canossa College, 嘉諾撒書院
+CCC Kwei Wah Shan College, 中華基督教會桂華山中學
+Chong Gene Hang College, 張振興伉儷書院
+CNEC Lau Wing Sang Secondary School, 中華傳道會劉永生中學
+Concordia Lutheran School - North Point, 北角協同中學
+Fukien Secondary School (Siu Sai Wan), 福建中學（小西灣）
+Hon Wah College, 漢華中學
+Islamic Kasim Tuet Memorial College, 伊斯蘭脫維善紀念中學
+Lingnan Hang Yee Memorial Secondary School, 嶺南衡怡紀念中學
+Man Kiu College, 閩僑中學
+Munsang College (Hong Kong Island), 港島民生書院
+Pui Kiu Middle School, 培僑中學
+Shau Kei Wan East Government Secondary School, 筲箕灣東官立中學
+SKH Li Fook Hing Secondary School, 聖公會李福慶中學
+St. Mark's School, 聖馬可中學
+The Methodist Church HK Wesley College, 衛理中學
+Aberdeen Baptist Lui Ming Choi College, 香港仔浸信會呂明才書院
+Buddhist Ho Nam Kam College, 佛教何南金中學
+Caritas Ma On Shan Secondary School, 明愛馬鞍山中學
+Hong Kong Sea School, 香港航海學校
+Precious Blood Secondary School, 寶血女子中學
+Salesian English School, 慈幼英文學校
+Shau Kei Wan Government Secondary School, 筲箕灣官立中學
+St. Joan of Arc Secondary School, 聖貞德中學
+The Chinese Foundation Secondary School, 中華基金中學
+TWGHs Lee Ching Dea Memorial College, 東華三院李潤田紀念中學
+Aberdeen Technical School, 香港仔工業學校
+Buddhist Wong Fung Ling College, 佛教黃鳳翎中學
+HKSKH Bishop Hall Secondary School, 香港聖公會何明華會督中學
+Hong Kong Tang King Po College, 香港鄧鏡波書院
+Hotung Secondary School, 何東中學
+Marymount Secondary School, 瑪利曼中學
+Queen's College, 皇仁書院
+Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
+St. Paul's Secondary School, 聖保祿中學
+True Light Middle School of Hong Kong, 香港真光中學
+Ying Wa Girls' School, 英華女學校
+King's College, 英皇書院
+Qualied College, 匯知中學
+Rosaryhill School, 玫瑰崗學校
+SKH Tang Shiu Kin Secondary School, 聖公會鄧肇堅中學
+St. Stephen's Girls' College, 聖士提反女子中學
+TWGHs C Y Ma Memorial College, 東華三院馬振玉紀念中學
+Aberdeen Baptist Lui Ming Choi College, 香港仔浸信會呂明才書院
+Caritas Chong Yuet Ming Secondary School, 明愛莊月明中學
+HKUGA College, 港大同學會書院
+Hong Kong True Light College, 香港真光書院
+Pui Tak Canossian College, 嘉諾撒培德書院
+Sacred Heart Canossian College, 嘉諾撒聖心書院
+SKH Lui Ming Choi Secondary School, 聖公會呂明才中學
+St. Stephen's College, 聖士提反書院
+Belilios Public School, 庇理羅士女子中學
+Caritas Ma On Shan Secondary School, 明愛馬鞍山中學
+Aberdeen Technical School, 香港仔工業學校
+Caritas Wu Cheng-chung Secondary School, 明愛胡振中中學
+Hong Kong Sea School, 香港航海學校
+PLK Wai Yin College, 保良局慧妍雅集書院
+Pui Ying Secondary School, 培英中學
+San Wui Commercial Soc. Chan Pak Sha School, 新會商會陳白沙紀念中學
+St. Peter's Secondary School, 聖伯多祿中學
+Yu Chun Keung Memorial College No. 2, 余振強紀念第二中學
+Buddhist Wong Fung Ling College, 佛教黃鳳翎中學
+Clementi Secondary School, 金文泰中學
+Fortress Hill Methodist Secondary School, 炮台山循道衛理中學
+Hotung Secondary School, 何東中學
+King's College, 英皇書院
+Queen's College, 皇仁書院
+SKH Tang Shiu Kin Secondary School, 聖公會鄧肇堅中學
+St. Stephen's Girls' College, 聖士提反女子中學
+TWGHs C Y Ma Memorial College, 東華三院馬振玉紀念中學
+Wah Yan College Hong Kong, 香港華仁書院
+Hong Kong Tang King Po College, 香港鄧鏡波書院
+Kiangsu-Chekiang College, 蘇浙公學
+Lok Sin Tong Leung Kau Kui College, 樂善堂梁銶琚書院
+Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
+St. Clare's Girls' School, 聖嘉勒女書院
+Tang Shiu Kin Victoria Government Secondary School, 鄧肇堅維多利亞官立中學
+TWGHs Lee Ching Dea Memorial College, 東華三院李潤田紀念中學
+Ying Wa Girls' School, 英華女學校
+Buddhist Wong Fung Ling College, 佛教黃鳳翎中學
+Confucius Hall Secondary School, 孔聖堂中學
+Hotung Secondary School, 何東中學
+Queen's College, 皇仁書院
+SKH Tang Shiu Kin Secondary School, 聖公會鄧肇堅中學
+St. Paul's Convent School, 聖保祿學校
+Tang Shiu Kin Victoria Government Secondary School, 鄧肇堅維多利亞官立中學
+Wah Yan College Hong Kong, 香港華仁書院
+Belilios Public School, 庇理羅士女子中學
+Caritas Ma On Shan Secondary School, 明愛馬鞍山中學
+CCC Kung Lee College, 中華基督教會公理高中書院
+Hong Kong Tang King Po College, 香港鄧鏡波書院
+Marymount Secondary School, 瑪利曼中學
+Rosaryhill School, 玫瑰崗學校
+St. Francis' Canossian College, 嘉諾撒聖方濟各書院
+St. Paul's Secondary School, 聖保祿中學
+True Light Middle School of Hong Kong, 香港真光中學
+Aberdeen Technical School, 香港仔工業學校
+Caritas Chai Wan Marden Foundation Secondary School, 明愛柴灣馬登基金中學
+Caritas Wu Cheng-chung Secondary School, 明愛胡振中中學
+CCC Kwei Wah Shan College, 中華基督教會桂華山中學
+Clementi Secondary School, 金文泰中學
+Concordia Lutheran School - North Point, 北角協同中學
+Hon Wah College, 漢華中學
+Islamic Kasim Tuet Memorial College, 伊斯蘭脫維善紀念中學
+King's College, 英皇書院
+Lok Sin Tong Leung Kau Kui College, 樂善堂梁銶琚書院
+Precious Blood Secondary School, 寶血女子中學
+Pui Ying Secondary School, 培英中學
+Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
+Chong Gene Hang College, 張振興伉儷書院
+Cognitio College (HK), 文理書院（香港）
+Fortress Hill Methodist Secondary School, 炮台山循道衛理中學
+Hong Kong Sea School, 香港航海學校
+Kiangsu-Chekiang College, 蘇浙公學
+Lingnan Secondary School, 嶺南中學
+Man Kiu College, 閩僑中學
+Pui Kiu Middle School, 培僑中學
+Raimondi College, 高主教書院
+SKH Li Fook Hing Secondary School, 聖公會李福慶中學
+St. Joan of Arc Secondary School, 聖貞德中學
+St. Stephen's Girls' College, 聖士提反女子中學
+TWGHs Lee Ching Dea Memorial College, 東華三院李潤田紀念中學
+St. Joseph's College, 聖若瑟英文書院
+TWGHs C Y Ma Memorial College, 東華三院馬振玉紀念中學
+Ying Wa Girls' School, 英華女學校
+Buddhist Fat Ho Memorial College, 佛教筏可紀念中學
+Caritas Charles Vath College, 明愛華德中書院
+HKFEW Wong Cho Bau Secondary School, 香港教育工作者聯會黃楚標中學
+Ling Liang Church E Wun Secondary School, 靈糧堂怡文中學
+Tung Chung Catholic School, 東涌天主教學校
+Aberdeen Baptist Lui Ming Choi College, 香港仔浸信會呂明才書院
+Belilios Public School, 庇理羅士女子中學
+Buddhist Wong Fung Ling College, 佛教黃鳳翎中學
+Caritas Chong Yuet Ming Secondary School, 明愛莊月明中學
+Caritas St. Joseph Secondary School, 明愛聖若瑟中學
+Buddhist Wai Yan Memorial College, 佛教慧因法師紀念中學
+Cheung Chau Government Secondary School, 長洲官立中學
+Ho Yu College And Primary School (Sponsored by Sik Sik Yuen), 嗇色園主辦可譽中學暨可譽小學
+PLK Mrs. Ma Kam Ming-Cheung Fook Sien College, 保良局馬錦明夫人章馥仙中學
+YMCA of Hong Kong Christian College, 港青基信書院
+Aberdeen Technical School, 香港仔工業學校
+Buddhist Sin Tak College, 佛教善德英文中學
+Caritas Chai Wan Marden Foundation Secondary School, 明愛柴灣馬登基金中學
+Caritas Ma On Shan Secondary School, 明愛馬鞍山中學
+Caritas Wu Cheng-chung Secondary School, 明愛胡振中中學
+CCC Kwei Wah Shan College, 中華基督教會桂華山中學
+Concordia Lutheran School - North Point, 北角協同中學
+Fortress Hill Methodist Secondary School, 炮台山循道衛理中學
+Hong Kong Sea School, 香港航海學校
+Kiangsu-Chekiang College, 蘇浙公學
+Kwai Chung Methodist College, 葵涌循道中學
+Lingnan Dr Chung Wing Kwong Memorial Secondary School, 嶺南鍾榮光博士紀念中學
+Lingnan Secondary School, 嶺南中學
+Man Kiu College, 閩僑中學
+Precious Blood Secondary School, 寶血女子中學
+Chong Gene Hang College, 張振興伉儷書院
+Delia Memorial School (Matteo Ricci), 地利亞修女紀念學校（利瑪竇）
+HKSYC & IA Chan Nam Chong Memorial College, 香港四邑商工總會陳南昌紀念中學
+Islamic Kasim Tuet Memorial College, 伊斯蘭脫維善紀念中學
+King's College, 英皇書院
+Lai King Catholic Secondary School, 荔景天主教中學
+Lingnan Hang Yee Memorial Secondary School, 嶺南衡怡紀念中學
+Lok Sin Tong Leung Kau Kui College, 樂善堂梁銶琚書院
+Po Leung Kuk Tong Nai Kan Junior Secondary College, 保良局唐乃勤初中書院
+Pui Kiu Middle School, 培僑中學
+Pui Ying Secondary School, 培英中學
+Raimondi College, 高主教書院
+Salesian English School, 慈幼英文學校
+Shau Kei Wan East Government Secondary School, 筲箕灣東官立中學
+SKH Li Fook Hing Secondary School, 聖公會李福慶中學
+SKH Tang Shiu Kin Secondary School, 聖公會鄧肇堅中學
+St. Stephen's Church College, 聖士提反堂中學
+TWGHs C Y Ma Memorial College, 東華三院馬振玉紀念中學
+Ying Wa Girls' School, 英華女學校
+Queen's College, 皇仁書院
+Rosaryhill School, 玫瑰崗學校
+San Wui Commercial Soc. Chan Pak Sha School, 新會商會陳白沙紀念中學
+Sir Ellis Kadoorie Secondary School (West Kowloon), 官立嘉道理爵士中學（西九龍）
+SKH Lui Ming Choi Secondary School, 聖公會呂明才中學
+St. Joan of Arc Secondary School, 聖貞德中學
+Tang Shiu Kin Victoria Government Secondary School, 鄧肇堅維多利亞官立中學
+TWGHs Lee Ching Dea Memorial College, 東華三院李潤田紀念中學
+Yu Chun Keung Memorial College No. 2, 余振強紀念第二中學
